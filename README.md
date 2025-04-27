@@ -7,8 +7,8 @@ This project analyzes and forecasts Walmart's weekly sales for a specific store 
 ## 📁 Project Structure
 
 - `walmart_sales_forecasting.ipynb` — Main Jupyter Notebook containing all data analysis and forecasting steps.
-- `walmart_sweetviz_report.pdf` — Automated EDA report for walmart data generated using Sweetviz.
--  `sales1_report.pdf` — Automated EDA report for walmart store1 generated using Sweetviz.
+- `walmart_report.html` — Automated EDA report for walmart data generated using Sweetviz.
+-  `sales1_report.html` — Automated EDA report for walmart store1 generated using Sweetviz.
 - `README.md` — Project documentation (you are here!).
 
 ---
