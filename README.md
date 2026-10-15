@@ -60,4 +60,4 @@ Download the `.html` files in `reports/` and open them in a browser to explore t
 
 ## Author
 
-**Bssam Ahmed** · [LinkedIn](https://www.linkedin.com/in/bssam-ahmed) · [GitHub](https://github.com/bssam99)
+**Bassam Ahmed** · [LinkedIn](https://www.linkedin.com/in/bssam-ahmed) · [GitHub](https://github.com/bssam99)
